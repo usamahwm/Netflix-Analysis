@@ -38,4 +38,4 @@ This pipeline isn't just for entertainment data. The same logic applies to **Leg
 ---
 **Looking to unify your business data?**
 I am currently offering a **2-month free trial** of this BI Pipeline service for qualifying businesses. 
-[Contact Me via LinkedIn/Email]
+

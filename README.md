@@ -35,7 +35,5 @@ This pipeline isn't just for entertainment data. The same logic applies to **Mar
 * **Save Time:** Automate the reporting that usually takes hours of manual work.
 * **God View:** See LinkedIn, Meta, and Website traffic in one single, curated window.
 
----
-**Looking to unify your business data?**
-I am currently offering a **2-month free trial** of this BI Pipeline service for qualifying businesses. 
+
 
